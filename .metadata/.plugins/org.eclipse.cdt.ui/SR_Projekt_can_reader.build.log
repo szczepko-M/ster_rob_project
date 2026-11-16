@@ -1,0 +1,10 @@
+14:21:23 **** Incremental Build of configuration Debug for project SR_Projekt_can_reader ****
+make -j12 all 
+arm-none-eabi-size  SR_Projekt_can_reader.elf 
+   text	   data	    bss	    dec	    hex	filename
+  22132	    104	   2208	  24444	   5f7c	SR_Projekt_can_reader.elf
+Finished building: default.size.stdout
+ 
+
+14:21:23 Build Finished. 0 errors, 0 warnings. (took 261ms)
+
